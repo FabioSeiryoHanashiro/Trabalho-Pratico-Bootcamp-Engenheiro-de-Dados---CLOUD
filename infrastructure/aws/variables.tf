@@ -3,7 +3,7 @@ variable "region_id" {
 }
 
 variable "prefix" {
-  default = "igti-ney-mod4"
+  default = "igti-fsh-mod4"
 }
 
 variable "account" {
